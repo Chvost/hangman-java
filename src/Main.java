@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         final Random random = new Random();
-        final String[] words = {"skillmea", "akademie", "volby", "hrnek"};
+        final String[] words = {"skillmea", "akademie", "volby", "bzučák"};
 
 
         final String wordToGuess = SelectRandomWord(random, words);
